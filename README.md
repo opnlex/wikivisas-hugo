@@ -1,24 +1,57 @@
-# WikiVisas Hugo Wiki
+# 🌍 WikiVisas.org
 
-Welcome to the source repo for the **WikiVisas** static wiki — the world's most comprehensive index of digital nomad, retirement, investor, and second citizenship visa programs.
+![Welcome to WikiVisas](assets/repo-poster.png)
 
-## 🗺️ Site Purpose
-This Hugo-based site generates fast, structured wiki pages for each visa type.
+**WikiVisas** is a free, community-curated resource for global migration pathways — including digital nomad visas, work permits, citizenship-by-descent, and investor immigration routes.
 
-## 📂 Folder Structure
-- `/content/` — Visa page markdown files
-- `/static/` — Images, flags, and assets
-- `/layouts/` — Hugo templates
-- `/data/` — Country-specific variables
-- `/themes/` — Your Hugo theme
+Built with ❤️ + 🙏 using [Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [GitHub Pages](https://pages.github.com/)
 
-## 🚀 Live Site
-👉 [https://wikivisas.org/wiki](https://wikivisas.org/wiki)
+---
 
-## 🛠️ Built With
-- Hugo (static site generator)
-- GitHub + GitHub Pages
-- CloudCannon (Visual CMS editor)
+## 📂 What You'll Find Here 
 
-## 👩‍💻 How to Contribute
-Coming soon!
+- ✅ Starter `.md` templates for country-specific visa programs  
+- ✅ Organized folder structure by visa type (e.g. `digital-nomad-visas`, `citizenship-by-investment`)  
+- ✅ Placeholder flag icons and country images  
+- ✅ CC BY-NC-SA 4.0 License  
+- ✅ Visual editing support via CloudCannon CMS  
+
+---
+
+## 🛠 How to Use
+
+Clone or fork the repository, then:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/wikivisas-Hugo.git
+cd wikivisas-Hugo
+```
+
+Start building your Hugo site with:
+
+```bash
+hugo server
+```
+
+Want to edit visually? Connect to [CloudCannon](https://cloudcannon.com/).
+
+---
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** License (CC BY-NC-SA 4.0).
+
+![CC License Badge](assets/license-badge.png)
+
+You may reuse and adapt with attribution. No commercial use allowed.
+
+---
+
+## 🤝 Contributions
+
+We are not accepting public contributions at this time.  
+Stay tuned or [follow the project](https://github.com/YOUR_USERNAME/wikivisas-Hugo) for updates.
+
+---
+
+© 2025 WikiVisas.org by Gareth Westwood at OpnLex Legal Labs
