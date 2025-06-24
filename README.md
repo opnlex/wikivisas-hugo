@@ -4,7 +4,7 @@
 
 **WikiVisas** is a free, community-curated resource for global migration pathways — including digital nomad visas, work permits, citizenship-by-descent, and investor immigration routes.
 
-Built with ❤️ + 🙏 using [Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [GitHub Pages](https://pages.github.com/)
+Built with ❤️+🙏 using [Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [GitHub Pages](https://pages.github.com/)
 
 ---
 
@@ -23,7 +23,7 @@ Built with ❤️ + 🙏 using [Hugo](https://gohugo.io/) + [CloudCannon](https:
 Clone or fork the repository, then:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wikivisas-Hugo.git
+git clone https://github.com/opnlex/wikivisas-Hugo.git
 cd wikivisas-Hugo
 ```
 
@@ -50,8 +50,13 @@ You may reuse and adapt with attribution. No commercial use allowed.
 ## 🤝 Contributions
 
 We are not accepting public contributions at this time.  
-Stay tuned or [follow the project](https://github.com/YOUR_USERNAME/wikivisas-Hugo) for updates.
+Stay tuned or [follow the project](https://github.com/opnlex/wikivisas-hugo) for updates.
 
 ---
 
-© 2025 WikiVisas.org by Gareth Westwood at OpnLex Legal Labs
+© 2025 WikiVisas.org by [Gareth Westwood](https://gwestwood.org/) at **OpnLex Legal Labs** 
+
+**Fiat justitia, ruat coelum** 
+—Lord Mansfield
+
+
