@@ -1,0 +1,32 @@
+
+# Hugo output directory
+/public/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Hugo-specific
+resources/
+hugo_stats.json
+
+# CloudCannon config (optional backup files)
+.cloudcannon/
+
+# Temporary files
+*.log
+*.bak
+*~
+*.swp
+
+# OS-specific
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Node.js tools (if using for build scripts)
+node_modules/
+
+# Environment files
+.env
+.env.*
