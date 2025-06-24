@@ -1,6 +1,6 @@
 # 🌍 WikiVisas.org
 
-![Welcome to WikiVisas](assets/repo-poster.png)
+![Welcome to WikiVisas](assets/logo.png)
 
 **WikiVisas** is a free, community-curated resource for global migration pathways — including digital nomad visas, work permits, citizenship-by-descent, and investor immigration routes.
 
